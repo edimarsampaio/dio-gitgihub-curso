@@ -1,2 +1,4 @@
-# dio-gitgihub-curso
-Curso DIO Git GitHub
+# Desafio Git/Github da DIO
+
+
+Repositório do Desafio DIO Projeto
